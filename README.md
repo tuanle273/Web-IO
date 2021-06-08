@@ -4,6 +4,8 @@
     <th>IMG</th>
     <th>TEXT</th>
     <th>DEBUG</th>
+    <th>MUSIC</th>
+   <td>Youtube</td>
   </tr>
  
 </table>
